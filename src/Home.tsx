@@ -13,7 +13,7 @@ export default function Home() {
                 <li>TAILWINDCSS</li>
                 <li>REACT JS WITH VITE</li>
             </ol>
-            Created by @DimitriTedom alias SnowDev for Code Lovers !!!
+            Created by @melvis selena alias SnowDev for Code Lovers !!!
       <Button>Here is a SHadCn button</Button>
 
     </div>
